@@ -1,0 +1,10 @@
+M:\projects\unity\FruidRTS\Temp\bin\Debug\Assembly-CSharp.dll
+M:\projects\unity\FruidRTS\Temp\bin\Debug\Assembly-CSharp.pdb
+M:\projects\unity\FruidRTS\Temp\bin\Debug\UnityEditor.dll
+M:\projects\unity\FruidRTS\Temp\bin\Debug\UnityEngine.dll
+M:\projects\unity\FruidRTS\Temp\bin\Debug\Mono.Cecil.dll
+M:\projects\unity\FruidRTS\Temp\bin\Debug\nunit.framework.dll
+M:\projects\unity\FruidRTS\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+M:\projects\unity\FruidRTS\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+M:\projects\unity\FruidRTS\obj\Debug\Assembly-CSharp.dll
+M:\projects\unity\FruidRTS\obj\Debug\Assembly-CSharp.pdb

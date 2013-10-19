@@ -2,10 +2,10 @@
 using System.Collections;
 
 [CustomEditor(typeof(TileMap))]
-public class TileMapLoader : Editor {
+public class TileMapInspector : Editor {
 	
-	public override void OnInspectorGUI() {
-		base.OnInspectorGUI();
+	public override void OnInspectorGUI(){
 		DrawDefaultInspector();
+		
 	}
 }
